@@ -1,0 +1,6 @@
+/Users/pratever/Desktop/WKND-React/aem-guides-wknd-spa-1.0.3-React/core/src/test/java/com/adobe/aem/guides/wknd/spa/react/core/listeners/SimpleResourceListenerTest.java
+/Users/pratever/Desktop/WKND-React/aem-guides-wknd-spa-1.0.3-React/core/src/test/java/com/adobe/aem/guides/wknd/spa/react/core/schedulers/SimpleScheduledTaskTest.java
+/Users/pratever/Desktop/WKND-React/aem-guides-wknd-spa-1.0.3-React/core/src/test/java/com/adobe/aem/guides/wknd/spa/react/core/servlets/SimpleServletTest.java
+/Users/pratever/Desktop/WKND-React/aem-guides-wknd-spa-1.0.3-React/core/src/test/java/com/adobe/aem/guides/wknd/spa/react/core/servlets/AKQAFormServletTest.java
+/Users/pratever/Desktop/WKND-React/aem-guides-wknd-spa-1.0.3-React/core/src/test/java/com/adobe/aem/guides/wknd/spa/react/core/models/HelloWorldModelTest.java
+/Users/pratever/Desktop/WKND-React/aem-guides-wknd-spa-1.0.3-React/core/src/test/java/com/adobe/aem/guides/wknd/spa/react/core/filters/LoggingFilterTest.java
